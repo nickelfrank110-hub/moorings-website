@@ -34,4 +34,3 @@ $("send").onclick=()=>{
 };
 $("tourlink").href=`https://wa.me/${PHONE}?text=${encodeURIComponent("Hello The Moorings, I’d like to ask about the sunset boat tour.")}`;
 render();
-    
